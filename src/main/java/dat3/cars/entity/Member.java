@@ -1,10 +1,8 @@
 package dat3.cars.entity;
 
-
 import dat3.security.entity.UserWithRoles;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 
